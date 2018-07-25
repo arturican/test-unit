@@ -1,1 +1,17 @@
-
+.header{
+  background-color: gray;
+  margin: 0 0;
+  padding: 0 0;
+  float: none;
+}
+.header--region{
+  text-align: center;
+}
+.header--list{
+  text-align: center;
+}
+.line {
+    border-left: 2px solid #ccc;
+    margin-left: 20px;
+    padding-left: 10px;
+   }
